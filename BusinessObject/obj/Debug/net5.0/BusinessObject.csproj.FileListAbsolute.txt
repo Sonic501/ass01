@@ -1,0 +1,11 @@
+C:\Users\Sonic\OneDrive\Desktop\PRN231\Product\PRN231_Assignment1\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\Sonic\OneDrive\Desktop\PRN231\Product\PRN231_Assignment1\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\Sonic\OneDrive\Desktop\PRN231\Product\PRN231_Assignment1\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\Sonic\OneDrive\Desktop\PRN231\Product\PRN231_Assignment1\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sonic\OneDrive\Desktop\PRN231\Product\PRN231_Assignment1\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\Sonic\OneDrive\Desktop\PRN231\Product\PRN231_Assignment1\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\Sonic\OneDrive\Desktop\PRN231\Product\PRN231_Assignment1\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Sonic\OneDrive\Desktop\PRN231\Product\PRN231_Assignment1\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\Sonic\OneDrive\Desktop\PRN231\Product\PRN231_Assignment1\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+C:\Users\Sonic\OneDrive\Desktop\PRN231\Product\PRN231_Assignment1\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\Sonic\OneDrive\Desktop\PRN231\Product\PRN231_Assignment1\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
